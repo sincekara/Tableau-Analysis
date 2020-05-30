@@ -1,4 +1,4 @@
-## Tableau Homework - Citi Bike Analytics
+## Tableau Visualization - Citi Bike Analytics
 
 ## Background
 
