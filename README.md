@@ -1,7 +1,5 @@
 ## Tableau Homework - Citi Bike Analytics
 
-### Before You Begin
-
 ## Background
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure 
